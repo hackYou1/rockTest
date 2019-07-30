@@ -1,0 +1,12 @@
+2019-07-30 22:23:26,683 - App Date - INFO - Successfully expanded prices.csv into prices_ref.csv
+2019-07-30 22:23:26,711 - App Date - INFO - Successfully expanded weights.csv into weights_ref.csv
+2019-07-30 22:23:26,731 - App Date - INFO - Successfully expanded exchanges.csv into exchanges_ref.csv
+2019-07-30 22:23:26,866 - App Date - INFO - Read csv successfully in get_date_np()
+2019-07-30 22:23:27,002 - App Date - INFO - Read csv successfully in get_np()
+2019-07-30 22:23:27,019 - App Date - INFO - Get crt successfully in get_crt()
+2019-07-30 22:24:32,868 - App Date - INFO - Successfully expanded prices.csv into prices_ref.csv
+2019-07-30 22:24:32,880 - App Date - INFO - Successfully expanded weights.csv into weights_ref.csv
+2019-07-30 22:24:32,890 - App Date - INFO - Successfully expanded exchanges.csv into exchanges_ref.csv
+2019-07-30 22:24:32,910 - App Date - INFO - Read csv successfully in get_date_np()
+2019-07-30 22:24:32,987 - App Date - INFO - Read csv successfully in get_np()
+2019-07-30 22:24:33,004 - App Date - INFO - Get crt successfully in get_crt()
