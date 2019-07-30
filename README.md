@@ -1,7 +1,15 @@
 # Welcome to RockSci
 
-Test assignment description is provided in `description.pdf`. Please upload your solution to your preferred online git repository.
 
-If you have any questions, do not hesitate to contact us: georgy.samoylov@rockscie.com, elizabeth.prosvirina@rockscie.com
+# Описание решения поставленной задачи
 
-Good luck!
+Основной класс находится в файле 'app.py', также производится подгрузка функций из 'appDate.py'.
+Решение основано на описание, которое дано в pdf-файле "description.pdf". Сначала в данные .csv-таблицы 
+добавляются недостающие даты, после этого начинается основной алгоритм, который описан в той же pdf-ке и
+реализован мною с помощью библиотеки numpy, уверен, что некоторые вещи можно было сделать проще, но
+как-то получилось так как получилось. Юнит-тесты решил не писать, потому что для этой задачи 
+это нецелесообразно, в целом в 'app.py' находится main, в котором можно протестировать программу на простых
+тестах.
+
+# P.S.
+Спасибо за интересную задачу. Было занимательно освежить память по работе с pandas и, особенно, numpy.
